@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiofn2000&label=Profile%20views&color=0e75b6&style=flat" alt="sergiofn2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiofn2000" alt="sergiofn2000" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel, React,Spring**
 
 - 👨‍💻 All of my projects are available at [https://sergiofn2000.github.io/portfolio.html](https://sergiofn2000.github.io/portfolio.html)
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiofn2000&show_icons=true&locale=en&layout=compact" alt="sergiofn2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiofn2000&show_icons=true&locale=en" alt="sergiofn2000" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiofn2000&" alt="sergiofn2000" /></p>
