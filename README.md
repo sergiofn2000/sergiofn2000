@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiofn2000&label=Profile%20views&color=0e75b6&style=flat" alt="sergiofn2000" /> </p>
 
-- 🌱 I’m currently learning **Laravel, React,Spring**
+- 🌱 I’m currently learning **Laravel, React, Spring**
 
 - 👨‍💻 All of my projects are available at [https://sergiofn2000.github.io/portfolio.html](https://sergiofn2000.github.io/portfolio.html)
 
